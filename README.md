@@ -47,10 +47,10 @@ The Pi pretends to be a **USB serial device**, like an Arduino, and uses a Pi ca
 
 ### Hardware
 
-- Raspberry Pi Zero
+- Raspberry Pi Zero (w, optional)
 - Pi Camera (v1 or v2)
 - MicroSD card (8GB+)
-- USB cable (Pi Zero **data** port, not power-only)
+- USB cable (for the Pi Zero **data** port, not power-only)
 - A computer running macOS or Linux
 
 ### Software
@@ -62,7 +62,7 @@ The Pi pretends to be a **USB serial device**, like an Arduino, and uses a Pi ca
 
 ## 🐧 Step 1: Set Up Raspberry Pi OS
 
-Flash Raspberry Pi OS onto the SD card.
+Flash Raspberry Pi OS onto the SD card using the Raspberry Pi Imager.
 
 Enable:
 
